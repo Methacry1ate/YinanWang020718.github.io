@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yinan Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://methacry1ate.github.io/YinanWang020718.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Bachelor Student at Tokyo Univ. of Science"
   location         : "Tokyo, Japan"
   employer         : "Red Brick University"
-  uri              : https://methacry1ate.github.io/YinanWang020718.github.io/
+  uri              : 
   email            : "8221111@ed.tus.ac.jp" 
 
   # Academic websites
